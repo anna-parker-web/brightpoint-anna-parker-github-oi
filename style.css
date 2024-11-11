@@ -1,0 +1,21 @@
+ @charset "utf-8";
+/* CSS Document */
+h1{
+	text-align: center;
+	color:white;
+}
+h3{
+	text-align: center;
+	color: white;
+}
+body{
+	text-align: center;
+	color:black;
+	background-color:#507DA0;
+	border: 5px solid #FFFFFF;
+} 
+
+
+a {
+	color:white;
+}
